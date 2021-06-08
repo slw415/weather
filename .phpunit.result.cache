@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Shishuaishuai\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidType":3,"Shishuaishuai\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidFormat":3},"times":{"Shishuaishuai\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidType":0.014,"Shishuaishuai\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidFormat":0}}
